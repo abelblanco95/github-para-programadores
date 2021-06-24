@@ -1,2 +1,4 @@
-# github-para-programadores
-Prueba de repositorio
+# Bienvenido al curse de GitHub
+
+[Visita mi Linkdin](https://www.linkedin.com/in/abelblancofernandez/)
+
